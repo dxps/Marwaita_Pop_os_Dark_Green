@@ -1,0 +1,12 @@
+[Desktop ]
+Type=X-GNOME-Metatheme
+Name=Marwaita_Pop_os_Dark_Green
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Marwaita_Pop_os_Dark_Green
+MetacityTheme=Marwaita_Pop_os_Dark_Green
+IconTheme=Luna-Dark
+CursorTheme=Breeze
+CursorSize=24
